@@ -1,2 +1,2 @@
-# Crypto Tradingbot
+# AI_CryptoTradingBot
 ARTIFICIAL INTELLIGENCE TECHNOLOGY FINAL PROJECT
