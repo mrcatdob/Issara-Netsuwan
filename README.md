@@ -1,2 +1,2 @@
-# Issara-Netsuwan
-Crypto Tradingbot AI FINAL PROJECT
+# Crypto Tradingbot
+ARTIFICIAL INTELLIGENCE TECHNOLOGY FINAL PROJECT
